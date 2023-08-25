@@ -2,15 +2,14 @@
 This is the first JavaScript project available on https://www.theodinproject.com/lessons/foundations-rock-paper-scissors .  I will try to add an improve this project with a GUI later
 
 
-Plans for this project currently: 
+This project has currently been completed under its current chapter in the "Foundations" page of Odin. 
+Function for comparing between player choice and computer choice was added.
+Function for playing 5 rounds of the game depending on player input have been added.
+Function for the computer choice depending on 3 strings chosen at random have been added.
+Cleaned up code and added comments wherever was needed.
+Player prompt and function calling improved.
+The game is now functional depending on the player prompt in the console.
 
-Repo on GitHub: --> STARTED. CLONED
+I took liberties with this project. Added "Alert" messages instead of console.log() results as they are easier to read and wanted to test the functionality of returning alerts and prompts.
 
-Blank document --> STARTED
-
-getComputerChoice --> I need this function to randomly return rock, paper or scissors to make this computer play. I gotta use the browser console to make sure the expected output is returned
-
-I need a function that plays a single round of "Rock, Paper, Scissors". 
-
-I need 2 parameters: playerSelection and computerSelection --> A string will be returned that declares the winner of the round with "You Lose! Paper beats Rock" (playerSelection needs to be case-insensitive)
-
+Project will be updated once a GUI has been added (I'm guessing this comes at a later stage of the Odin Project).
