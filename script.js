@@ -58,10 +58,8 @@ let returnedMessage;
 
 function game()
 {
-    let loop = 5;
     for (let i=0; i<5;i++)
     playRound(playerSelection, computerSelection);
-
 }
 
 
